@@ -14,4 +14,10 @@
 <p>dotnet add package Swashbuckle.AspNetCore --version 9.0.3</p>
 <p>dotnet add package Microsoft.EntityFrameworkCore.Tools --version 9.0.3</p>
 <p>dotnet tool install --global dotnet-ef --version 9.0.3</p>
+<h2>Comandos</h2>
+<p></p>
+<p></p>
+<h2>Como Executar o Projeto</h2>
+<p>Primeiramente você preciso ter algum banco de dados instalado e configurado o acesso com as ferramentas instaladas é preciso ter a string de conexão do banco de dados e os devidos pacotes instalados e migrations configuradas utilizar o comando dotnet run e acessar pelo link liberado com /swagger</p>
+<h2></h2>
 
