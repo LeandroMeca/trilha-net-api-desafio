@@ -23,7 +23,7 @@
 
 <h2>Comandos</h2>
 <p>O comando abaixo cria a estrutura da migration baseada no seu modelo de dados:</p>
-<p>dotnet ef migrations add CriacaoInicial</p>
+<p>dotnet ef migrations add Tarefa</p>
 <p>Este comando aplica a migration e cria ou atualiza as tabelas no banco de dados:</p>
 <p>dotnet ef database update</p>
 
