@@ -16,8 +16,10 @@
 <p>dotnet tool install --global dotnet-ef --version 9.0.3</p>
 <h2>Comandos</h2>
 <p></p>
-<p></p>
+<p>depois que criar o banco de dados - dotnet ef migrations add Tarefa</p>
+<p>esse comando vai criar as tabelas no banco de dados - dotnet ef database update</p>
 <h2>Como Executar o Projeto</h2>
-<p>Primeiramente você preciso ter algum banco de dados instalado e configurado o acesso com as ferramentas instaladas é preciso ter a string de conexão do banco de dados e os devidos pacotes instalados e migrations configuradas utilizar o comando dotnet run e acessar pelo link liberado com /swagger</p>
-<h2></h2>
+<p>Primeiramente você preciso ter algum banco de dados instalado e configurado o acesso, com as ferramentas instaladas é preciso ter a string de conexão do banco de dados e os devidos pacotes instalados, e migrations configuradas utilizar o comando dotnet run e acessar pelo link liberado com /swagger</p>
+<h2>Conclusão</h2>
+<p>Apesar de um projeto extremamente pequeno pode ser muito util e de grande ajuda no dia dia </p>
 
