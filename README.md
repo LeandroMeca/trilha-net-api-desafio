@@ -7,4 +7,11 @@
 <p>SQLServer</p>
 <h2>Ferramentas utilizadas</h2>
 <p>VsCode, SQLServer, Microsoft SqlServer Management Studio</p>
-<p></p>
+<h2>Pacotes utilizados</h2>
+<p>dotnet ef migrations add Tarefa</p>
+<p>dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 9.0.3</p>
+<p>dotnet add package Microsoft.EntityFrameworkCore.Design --version 9.0.3</p>
+<p>dotnet add package Swashbuckle.AspNetCore --version 9.0.3</p>
+<p>dotnet add package Microsoft.EntityFrameworkCore.Tools --version 9.0.3</p>
+<p>dotnet tool install --global dotnet-ef --version 9.0.3</p>
+
